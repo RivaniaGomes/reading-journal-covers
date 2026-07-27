@@ -7,6 +7,7 @@ __pycache__/
 .venv/
 venv/
 ENV/
+.env
 
 # Editor settings
 .vscode/
@@ -15,3 +16,5 @@ ENV/
 
 # Generated book cover thumbnails
 capas/
+print_pages.pdf
+print_pages*.png
