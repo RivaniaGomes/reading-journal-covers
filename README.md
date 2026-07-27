@@ -86,7 +86,7 @@ python generate_print_pages.py --input-dir capas --output print_pages.pdf --colu
 
 ---
 
-## ⚙️ Requisitos do Sistema
+## Requisitos do Sistema
 
 Instale as dependências necessárias antes de rodar:
 
