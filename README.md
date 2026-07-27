@@ -1,4 +1,4 @@
-# Reading Journal - Download automático de capas
+# Reading Journal Covers
 
 Este projeto baixa capas de livros a partir de um CSV e salva imagens em tamanho configurável.
 
